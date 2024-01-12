@@ -7,7 +7,7 @@ Software Engineer Student
 I am from Madagascar but living in Morocco since 2019. I started coding at College few years ago but I have been always interested in all about IT and I have been adept at using and navigating computers for a longtime.
 
 * 🌍  I'm based in Agadir, Morocco
-* ✉️  You can contact me at [nirinamercia@gmail.com](mailto:nirinamercia@gmail.com)
+* ✉️  You can contact me at [nirinarakotoniary@gmail.com](mailto:nirinarakotoniary@gmail.com)
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on springboot, react, angular
 
