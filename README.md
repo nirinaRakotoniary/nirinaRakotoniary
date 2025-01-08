@@ -8,8 +8,8 @@ I am from Madagascar but living in Morocco since 2019. I started coding at Colle
 
 * 🌍  I'm based in Agadir, Morocco
 * ✉️  You can contact me at [nirinarakotoniary@gmail.com](mailto:nirinarakotoniary@gmail.com)
-* 🧠  I'm learning React Native
-* 🤝  I'm open to collaborating on springboot, react, angular
+* 🧠  I'm learning Flutter and NestJS
+* 🤝  I'm open to collaborating on springboot, flask, laravel, ML & DL and React with JS or TS
 
 ### Skills
 
