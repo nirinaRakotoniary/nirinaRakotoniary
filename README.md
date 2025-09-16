@@ -12,7 +12,7 @@ I am a passionate software engineer from Madagascar who studied in Agadir, Moroc
 * 💼  Currently working as a Software Engineer at Netalek Services
 * 🧠  I'm expanding my expertise in AI/ML, cybersecurity, and ethical hacking
 * 🤝  I'm open to collaborating on backend development, AI/ML projects, and full-stack applications
-* 🌐  Visit my portfolio at [nirina.vercel.app](https://nirina.vercel.app/)
+
 
 ### Experience
 
